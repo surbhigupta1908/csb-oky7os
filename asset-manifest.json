@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://surbhigupta1908.github.io/csb-oky7os/static/css/main.72d05f9e.chunk.css",
+    "main.js": "https://surbhigupta1908.github.io/csb-oky7os/static/js/main.ca4ccacc.chunk.js",
+    "main.js.map": "https://surbhigupta1908.github.io/csb-oky7os/static/js/main.ca4ccacc.chunk.js.map",
+    "runtime-main.js": "https://surbhigupta1908.github.io/csb-oky7os/static/js/runtime-main.b7eefdfc.js",
+    "runtime-main.js.map": "https://surbhigupta1908.github.io/csb-oky7os/static/js/runtime-main.b7eefdfc.js.map",
+    "static/js/2.3e0b527b.chunk.js": "https://surbhigupta1908.github.io/csb-oky7os/static/js/2.3e0b527b.chunk.js",
+    "static/js/2.3e0b527b.chunk.js.map": "https://surbhigupta1908.github.io/csb-oky7os/static/js/2.3e0b527b.chunk.js.map",
+    "static/js/3.5a10e21c.chunk.js": "https://surbhigupta1908.github.io/csb-oky7os/static/js/3.5a10e21c.chunk.js",
+    "static/js/3.5a10e21c.chunk.js.map": "https://surbhigupta1908.github.io/csb-oky7os/static/js/3.5a10e21c.chunk.js.map",
+    "index.html": "https://surbhigupta1908.github.io/csb-oky7os/index.html",
+    "static/css/main.72d05f9e.chunk.css.map": "https://surbhigupta1908.github.io/csb-oky7os/static/css/main.72d05f9e.chunk.css.map",
+    "static/js/2.3e0b527b.chunk.js.LICENSE.txt": "https://surbhigupta1908.github.io/csb-oky7os/static/js/2.3e0b527b.chunk.js.LICENSE.txt",
+    "static/media/amazon-logo.1c9be0b2.png": "https://surbhigupta1908.github.io/csb-oky7os/static/media/amazon-logo.1c9be0b2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7eefdfc.js",
+    "static/js/2.3e0b527b.chunk.js",
+    "static/css/main.72d05f9e.chunk.css",
+    "static/js/main.ca4ccacc.chunk.js"
+  ]
+}
